@@ -5,7 +5,7 @@ body {
 section {
   /* background: #fffaf0; */
   /* background: #ffdead; */
-  background: #fffafa;
+  background: #01250f;
 }
 
 .blurb h2 {
@@ -44,7 +44,7 @@ section {
 }
 
 #mainNavbar .nav-link {
-  color: #40e0d0;
+  color: #094f24;
   font-family: "Righteous", roboto;
 }
 
