@@ -28,8 +28,8 @@ section {
 }
 
 .content {
-  padding-bottom: 10px;
-  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
 }
 
 #mainNavbar .navbar-brand {
@@ -51,13 +51,13 @@ section {
 #mainNavbar .nav-link:hover {
   font-size: 1.5rem;
   font-weight: 300;
-  color: #e9c46a;
+  color: #0a6a2f;
 }
 
 #headingGroup h1 {
   font-weight: 100;
   font-size: 4rem;
-  color: #a44a3f;
+  color: #0a6a2f;
   font-family: "Pacifico", cursive;
 }
 
